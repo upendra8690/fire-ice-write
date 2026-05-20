@@ -11,7 +11,7 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.8-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Latest-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Nivi-55/fire-ice-write?style=for-the-badge&color=FFD700)
+![Stars](https://img.shields.io/github/stars/upendra8690/fire-ice-write?style=for-the-badge&color=FFD700)
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Nivi-55/fire-ice-write.git
+git clone https://github.com/upendra8690/fire-ice-write.git
 cd fire-ice-write
 
 # 2. Create a virtual environment
@@ -151,9 +151,9 @@ protobuf==3.20.3
 
 <div align="center">
 
-**NIVEDITHA A**
+**Mopuru Upendra Reddy**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nivi--55-181717?style=for-the-badge&logo=github)](https://github.com/Nivi-55)
+[![GitHub](https://img.shields.io/badge/GitHub-upendra8690-181717?style=for-the-badge&logo=github)](https://github.com/upendra8690)
 
 *"Built with Python, physics math, and zero game engines."*
 
