@@ -1,4 +1,3 @@
-#README.md
 # 🔥 Fire & Ice — Magic Hand Particle System ❄️
 
 <div align="center">
@@ -26,7 +25,13 @@
 
 ## 🎬 Demo
 
-> Place your `demo.gif` here after recording — use `Win + Alt + R` to record, then convert at [ezgif.com](https://ezgif.com/video-to-gif)
+<div align="center">
+
+https://github.com/upendra8690/fire-ice-write/assets/Fire_Ice_BANGER.mp4
+
+> 🎵 *Fire & Ice Magic — real-time hand tracking with epic BGM*
+
+</div>
 
 ---
 
