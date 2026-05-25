@@ -27,13 +27,11 @@
 
 <div align="center">
 
-https://github.com/upendra8690/fire-ice-write/assets/Fire_Ice_BANGER.mp4
+https://github.com/user-attachments/assets/cd0dd43f-21f9-455f-9aba-009bf30415c5
 
 > 🎵 *Fire & Ice Magic — real-time hand tracking with epic BGM*
 
 </div>
-
----
 
 ## ✨ What Makes This Special
 
